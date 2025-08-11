@@ -1,0 +1,325 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "aravind_dev",
+        "profilePic": "src/assets/portrait-of-handsome-young-man-in-white-t-shirt-outdoors-looking-in-F90025.jpg"
+      },
+      "postImage": "src/assets/portrait-of-handsome-young-man-in-white-t-shirt-outdoors-looking-in-F90025.jpg",
+      "caption": "Just finished building my portfolio 💻✨",
+      "likes": 235,
+      "comments": [
+        {
+          "username": "dev_girl",
+          "text": "Looks cool!"
+        },
+        {
+          "username": "frontend_fun",
+          "text": "Clean UI 🔥"
+        }
+      ],
+      "timestamp": "2025-07-30T10:10:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "travelqueen",
+        "profilePic": "src/assets/most-beautiful-woman-in-the-world-1-1200x900.jpg"
+      },
+      "postImage": "src/assets/most-beautiful-woman-in-the-world-1-1200x900.jpg",
+      "caption": "Sunsets and sea 🌊🌅",
+      "likes": 654,
+      "comments": [
+        {
+          "username": "beach_boy",
+          "text": "Wish I was there!"
+        }
+      ],
+      "timestamp": "2025-07-29T15:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "foodielife",
+        "profilePic": "src/assets/c38ef8df906f4894ae25cf90f0b198f4.jpg"
+      },
+      "postImage": "src/assets/c38ef8df906f4894ae25cf90f0b198f4.jpg",
+      "caption": "Best sushi in town 🍣",
+      "likes": 413,
+      "comments": [
+        {
+          "username": "yum_tum",
+          "text": "I’m hungry now 😋"
+        }
+      ],
+      "timestamp": "2025-07-28T20:15:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "fitness_hero",
+        "profilePic": "src/assets/Karthikeya1.webp"
+      },
+      "postImage": "src/assets/Karthikeya1.webp",
+      "caption": "No pain, no gain 💪",
+      "likes": 322,
+      "comments": [
+        {
+          "username": "stronger_me",
+          "text": "Motivated now!"
+        },
+        {
+          "username": "gymrat",
+          "text": "Push it harder!"
+        }
+      ],
+      "timestamp": "2025-07-27T06:45:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "cat_lover",
+        "profilePic": "src/assets/il_570xN.4198086290_admc.avif"
+      },
+      "postImage": "src/assets/il_570xN.4198086290_admc.avif",
+      "caption": "Meet Mochi 🐱💖",
+      "likes": 728,
+      "comments": [
+        {
+          "username": "pet_fan",
+          "text": "So cute 😍"
+        }
+      ],
+      "timestamp": "2025-07-26T11:25:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "naturegram",
+        "profilePic": "src/assets/hike-couple-hikers-hiking-forest-trail-autumn-nature-going-camping-backpacks-friends-woman-man-walking-uphill-193896901.webp"
+      },
+      "postImage": "src/assets/hike-couple-hikers-hiking-forest-trail-autumn-nature-going-camping-backpacks-friends-woman-man-walking-uphill-193896901.webp",
+      "caption": "Morning walk in the woods 🌲☀️",
+      "likes": 389,
+      "comments": [
+        {
+          "username": "eco_life",
+          "text": "Peaceful ❤️"
+        }
+      ],
+      "timestamp": "2025-07-25T08:00:00Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 107,
+        "username": "fashionista",
+        "profilePic": "src/assets/gettyimages-1657460312-612x612.jpg"
+      },
+      "postImage": "src/assets/gettyimages-1657460312-612x612.jpg",
+      "caption": "OOTD 💃 #StyleGoals",
+      "likes": 541,
+      "comments": [
+        {
+          "username": "glamour_queen",
+          "text": "You're slaying!"
+        },
+        {
+          "username": "stylehunter",
+          "text": "Love the fit!"
+        }
+      ],
+      "timestamp": "2025-07-24T14:45:00Z"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 108,
+        "username": "gadget_guru",
+        "profilePic": "src/assets/gadgets-for-Indian-boys-men-Body_Images.jpg"
+      },
+      "postImage": "src/assets/gadgets-for-Indian-boys-men-Body_Images.jpg",
+      "caption": "New phone unboxing 📱🎁",
+      "likes": 212,
+      "comments": [
+        {
+          "username": "tech_reviewer",
+          "text": "Which model?"
+        }
+      ],
+      "timestamp": "2025-07-23T19:05:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "Aravind S",
+    "profilePic": "public\\s1.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "aravind_dev",
+      "profilePic": "src/assets/portrait-of-handsome-young-man-in-white-t-shirt-outdoors-looking-in-F90025.jpg"
+    },
+    {
+      "id": "102",
+      "username": "travelqueen",
+      "profilePic": "src/assets/most-beautiful-woman-in-the-world-1-1200x900.jpg"
+    },
+    {
+      "id": "103",
+      "username": "foodielife",
+      "profilePic": "src/assets/c38ef8df906f4894ae25cf90f0b198f4.jpg"
+    },
+    {
+      "id": "104",
+      "username": "fitness_hero",
+      "profilePic": "src/assets/Karthikeya1.webp"
+    },
+    {
+      "id": "105",
+      "username": "cat_lover",
+      "profilePic": "src/assets/il_570xN.4198086290_admc.avif"
+    },
+    {
+      "id": "106",
+      "username": "naturegram",
+      "profilePic": "src/assets/hike-couple-hikers-hiking-forest-trail-autumn-nature-going-camping-backpacks-friends-woman-man-walking-uphill-193896901.webp"
+    },
+    {
+      "id": "107",
+      "username": "fashionista",
+      "profilePic": "src/assets/gettyimages-1657460312-612x612.jpg"
+    },
+    {
+      "id": "108",
+      "username": "gadget_guru",
+      "profilePic": "src/assets/gadgets-for-Indian-boys-men-Body_Images.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "aravind_dev",
+        "profilePic": "src/assets/portrait-of-handsome-young-man-in-white-t-shirt-outdoors-looking-in-F90025.jpg"
+      },
+      "postImage": "/s1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "travelqueen",
+        "profilePic": "src/assets/most-beautiful-woman-in-the-world-1-1200x900.jpg"
+      },
+      "postImage": "/s2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "foodielife",
+        "profilePic": "src/assets/c38ef8df906f4894ae25cf90f0b198f4.jpg"
+      },
+      "postImage": "/s3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "fitness_hero",
+        "profilePic": "src/assets/Karthikeya1.webp"
+      },
+      "postImage": "/s4.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "cat_lover",
+        "profilePic": "src/assets/il_570xN.4198086290_admc.avif"
+      },
+      "postImage": "/s5.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "naturegram",
+        "profilePic": "src/assets/hike-couple-hikers-hiking-forest-trail-autumn-nature-going-camping-backpacks-friends-woman-man-walking-uphill-193896901.webp"
+      },
+      "postImage": "/s6.jpg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 107,
+        "username": "fashionista",
+        "profilePic": "src/assets/gettyimages-1657460312-612x612.jpg"
+      },
+      "postImage": "/s7.jpg"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 108,
+        "username": "gadget_guru",
+        "profilePic": "src/assets/gadgets-for-Indian-boys-men-Body_Images.jpg"
+      },
+      "postImage": "/s8.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "aravind_dev",
+      "profilePic": "src/assets/portrait-of-handsome-young-man-in-white-t-shirt-outdoors-looking-in-F90025.jpg"
+    },
+    {
+      "id": "102",
+      "username": "travelqueen",
+      "profilePic": "src/assets/most-beautiful-woman-in-the-world-1-1200x900.jpg"
+    },
+    {
+      "id": "103",
+      "username": "foodielife",
+      "profilePic": "src/assets/c38ef8df906f4894ae25cf90f0b198f4.jpg"
+    },
+    {
+      "id": "104",
+      "username": "fitness_hero",
+      "profilePic": "src/assets/Karthikeya1.webp"
+    },
+    {
+      "id": "105",
+      "username": "cat_lover",
+      "profilePic": "src/assets/il_570xN.4198086290_admc.avif"
+    },
+    {
+      "id": "107",
+      "username": "fashionista",
+      "profilePic": "src/assets/gettyimages-1657460312-612x612.jpg"
+    },
+    {
+      "id": "101",
+      "username": "aravind_dev"
+    },
+    {
+      "id": "106",
+      "username": "naturegram"
+    },
+    {
+      "id": "107",
+      "username": "fashionista"
+    }
+  ]
+}
